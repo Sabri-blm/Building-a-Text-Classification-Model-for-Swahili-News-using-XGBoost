@@ -21,7 +21,7 @@ The dataset consists of Swahili news articles categorized into topics like Natio
 ## Repository Structure
 
 - `code.ipynb`: Main Jupyter Notebook detailing the project workflow, including data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
-- `data/`: Directory for the dataset (not included in this repo, please download from Zindi).
+- `train.csv`: File of the training dataset (please download from Zindi, for up to date data).
 - `stopwords-sw.txt`: Swahili stopwords file used during preprocessing.
 
 ## Key Steps
